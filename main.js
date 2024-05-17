@@ -18,4 +18,4 @@ setInterval(() => {
   }
   box.style.backgroundColor = getRandomColor();
   document.body.style.backgroundColor = getRandomColor();
-}, 3000);
+}, 2000);
