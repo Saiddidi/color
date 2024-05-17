@@ -1,4 +1,5 @@
 let box = document.querySelector("div");
+
 function getRandomColor() {
   let letters = "0123456789ABCDEF";
   let color = "#";
