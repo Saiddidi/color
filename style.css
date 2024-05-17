@@ -8,8 +8,8 @@ body {
   transition: 0.3s;
 }
 div {
-  width: 500px;
-  height: 500px;
+  width: 50%;
+  height: width;
   background-color: #212121;
   transition: 0.3s;
 }
